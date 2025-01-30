@@ -16,7 +16,7 @@ Another way of counting this as done by @somyajeet and @aryan is
 ```
 (4c2*1 + 4c1*2)*5 + 5c2
 ```
-(Proof is left as an exercise for the user)
+(Proof is left as an exercise for the reader)
 
 ## Answer
 
