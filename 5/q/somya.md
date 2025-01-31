@@ -1,4 +1,4 @@
-## Strange function
+## Not a log function
 
 Let $f$ be a function defined on the set of rational numbers with the property that $f(a*b) = f(a) + f(b)$.
 
